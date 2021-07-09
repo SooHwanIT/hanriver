@@ -1,0 +1,40 @@
+.hanriver{
+    background-image: url('./hanriverimg.jpg');
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+.hanriver2{
+    background-image: url('./hanriverimg2.jpeg');
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+.hanriver-info{
+    float:left;
+    background-color: #c3c3c388;
+    width: 100%;
+    bottom: 0;
+    padding:50px 0px;
+}
+.search-box{
+    width: 100%;
+}
+.location-box{
+    /* 지역정보 */
+}
+.location{ 
+    /* seoul  */
+
+}
+.date{
+    /* 날자 */
+
+}
+
+.temp{
+    /* 온도 */
+}
+.weather{
+    /* 날씨 */
+}
